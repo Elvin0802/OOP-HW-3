@@ -1,0 +1,10 @@
+﻿  OOP Main3.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(64,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(78,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(198,47): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(214,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(228,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(259,40): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\Out Of Classes.h(293,45): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\C++ OOP HW- 3\OOP Main3.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++ OOP HW- 3.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 3\x64\Debug\C++ OOP HW- 3.exe
